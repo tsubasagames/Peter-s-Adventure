@@ -9,7 +9,6 @@
 ### QUICK SUMMARY
 * **YOU MAY:** Download the code and modify it for your own private use.
 * **YOU MAY NOT:** Distribute, share, or upload this project anywhere else.
-* **YOU MAY NOT:** Post screenshots, videos, or any content of this project on Social Media.
 * **EXCLUSIVE PERMISSION:** Only **GENUINE SCHOOL** has the right to use these assets for institutional purposes.
 
 ---
