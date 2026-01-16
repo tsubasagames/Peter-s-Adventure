@@ -1,2 +1,4 @@
-# Peter's Adventure (Early Access)
-### This is a beta test of the game's menu the game it's not done but it will be published in the repository when it's done
+> [!IMPORTANT]
+> **Peter's Adventure** is currently in **Early Access**.
+> 
+> Please be aware that the current build features the **Main Menu only**. The core gameplay is currently substituted with a **backup game** while the primary adventure features are being integrated.
